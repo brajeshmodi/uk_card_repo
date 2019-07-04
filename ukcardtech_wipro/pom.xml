@@ -6,7 +6,7 @@
 
   <groupId>com.wipro</groupId>
   <artifactId>ukcardtech_wipro</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <name>ukcardtech_wipro</name>
   <!-- FIXME change it to the project's website -->
